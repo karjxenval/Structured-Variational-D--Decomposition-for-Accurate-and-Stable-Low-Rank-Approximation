@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "PDQ Industrial Surrogate Benchmarks"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: Katende
+    given-names: Ronald
+version: 0.1.0
+date-released: 2026-06-19
+license: MIT

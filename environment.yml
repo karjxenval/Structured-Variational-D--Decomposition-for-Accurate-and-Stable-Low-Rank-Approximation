@@ -1,0 +1,13 @@
+name: pdqbench
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - pytest
+  - pip
+  - pip:
+      - -e .

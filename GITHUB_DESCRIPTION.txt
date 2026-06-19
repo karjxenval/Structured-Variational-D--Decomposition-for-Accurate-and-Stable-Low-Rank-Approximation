@@ -1,0 +1,1 @@
+Core-conditioned PDQ benchmarks for industrial reduced-order models, digital twins, and sparse-sensor reconstruction.
